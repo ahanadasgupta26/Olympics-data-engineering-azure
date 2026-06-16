@@ -17,24 +17,19 @@ This project focuses on building an end-to-end data engineering pipeline for ana
 
 ```text
 Olympics Dataset
-       │
-       ▼
+       ↓
 Azure Data Factory
 (Data Ingestion)
-       │
-       ▼
+       ↓
 Azure Data Lake Storage
 (Raw Layer)
-       │
-       ▼
+       ↓
 Azure Databricks
 (Data Cleaning & Transformation)
-       │
-       ▼
+       ↓
 Azure Data Lake Storage
 (Transformed Layer)
-       │
-       ▼
+       ↓
 Azure Synapse Analytics
 (Data Analysis & Reporting)
 ```
