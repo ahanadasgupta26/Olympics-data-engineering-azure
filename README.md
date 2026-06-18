@@ -1,3 +1,5 @@
+# Tokyo Olympics 2021 Data Engineering on Azure
+
 This project focuses on building an end-to-end data engineering pipeline for analyzing Olympic datasets using Microsoft Azure services. The objective was to ingest raw Olympic data, store it in a scalable cloud environment, transform and clean the data for analytical purposes, and generate meaningful insights through a dedicated analytics platform. The project follows a modern data engineering workflow that separates data ingestion, storage, transformation, and analysis into different layers for better scalability and maintainability.
 
 
