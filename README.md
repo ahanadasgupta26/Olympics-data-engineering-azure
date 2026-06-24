@@ -15,6 +15,11 @@ This project focuses on building an end-to-end data engineering pipeline for ana
 
 **Azure Synapse Analytics:** It was used as the analytics layer of the project. The transformed data stored in Azure Data Lake Storage was connected to Synapse Analytics, where SQL queries were executed to analyze Olympic performance metrics. The analysis focused on deriving insights such as medal distribution across countries, gender-wise participation statistics, and overall country performance. Synapse Analytics provided a powerful environment for querying large datasets and generating meaningful business insights.
 
+## Dataset
+
+This project uses the **2021 Olympics in Tokyo** dataset, which contains information about athletes, coaches, teams, medals, and gender-based participation in the Tokyo Olympics. The dataset includes details of over 11,000 athletes competing across 47 sports and representing 743 teams.
+
+**Dataset Source:** https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
 
 ## Project Workflow
