@@ -19,7 +19,7 @@ This project focuses on building an end-to-end data engineering pipeline for ana
 
 This project uses the **2021 Olympics in Tokyo** dataset, which contains information about athletes, coaches, teams, medals, and gender-based participation in the Tokyo Olympics. The dataset includes details of over 11,000 athletes competing across 47 sports and representing 743 teams.
 
-**Dataset Source:** https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
+* **Dataset Source:** https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
 
 ## Project Workflow
